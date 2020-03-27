@@ -18,3 +18,4 @@ do html.
 
 1# E-commerce utilizado: https://www.magazineluiza.com.br
 2# Biblioteca utilizada: Jsoup
+3# Para testar o código para apenas rodar a classe Program.java. 
